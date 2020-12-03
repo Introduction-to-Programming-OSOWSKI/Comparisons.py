@@ -1,16 +1,43 @@
-# **Assignment Title**  
+# **Comparisons**  
 
 ## **Assignment Description**  
+Create a functions for each different comparison that can be made between two given variables x and y. The functions should be named:
 
+greaterThan()  
+lessThan()  
+equalTo()  
+greaterOrEqual()  
+lessOrEqual()  
+
+Each function should return true/false if the statement is correct.
 
 ## **Examples**  
->
+>greaterThan(6, 10  
+false
+
+>equalTo(23, 23)  
+true
+
+>lessOrEqual(99, 100)  
+true
+
+>lessOrEqual(100, 100)  
+true
+
+>lessOrEqual(101, 100)  
+false
 
 ## **Limitations**  
+5 functions  
+5 if  
+5 else  
 
 ## **Hints**  
-
+Use <= for less than or equal to and >= for greater than or equal to.  
+= sets a variable to a value.  
+== asks if the variable is eual to a value.  
 ## **Concepts**  
+Unit 1, if/else, comparison operators
 
 ---
 
