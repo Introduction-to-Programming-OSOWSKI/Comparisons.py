@@ -1,7 +1,7 @@
 # **Comparisons**  
 
 ## **Assignment Description**  
-Create a functions for each different comparison that can be made between two given variables x and y. The functions should be named:
+Create a function for each different comparison that can be made between two given variables x and y. The functions should be named:
 
 greaterThan()  
 lessThan()  
@@ -12,7 +12,7 @@ lessOrEqual()
 Each function should return true/false if the statement is correct.
 
 ## **Examples**  
->greaterThan(6, 10  
+>greaterThan(6, 10)  
 false
 
 >equalTo(23, 23)  
